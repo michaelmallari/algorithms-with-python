@@ -1,0 +1,274 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Cloud/GitHub/michael@michaelmallari.com/trackman-baseball-pattern-lib/less/style-fonts.less",
+		"/Cloud/GitHub/michael@michaelmallari.com/trackman-baseball-pattern-lib/less/style-content.less",
+		"/Cloud/GitHub/michael@michaelmallari.com/trackman-baseball-pattern-lib/less/style-footer.less",
+		"/Cloud/GitHub/michael@michaelmallari.com/trackman-baseball-pattern-lib/less/style-global-nav.less",
+		"/Cloud/GitHub/michael@michaelmallari.com/trackman-baseball-pattern-lib/less/style-header.less",
+		"/Cloud/GitHub/michael@michaelmallari.com/trackman-baseball-pattern-lib/less/style-structure.less",
+		"/Cloud/GitHub/michael@michaelmallari.com/trackman-baseball-pattern-lib/public/js/functions.js",
+		"/Cloud/GitHub/michael@michaelmallari.com/trackman-baseball-pattern-lib/less/style.less",
+		"/Cloud/GitHub/michael@michaelmallari.com/trackman-baseball-pattern-lib/public/css/style.css",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com_20160115/public/js/functions.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/views/home.ejs",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/less/flexslider/base.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/less/flexslider/mixins.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/less/flexslider/font.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/less/flexslider/resets.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/views/header.ejs",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/less/flexslider/variables.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/less/flexslider/theme.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/public/js/functions.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/less/flexslider/responsive.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/less/flexslider/flexslider.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.topmbaapplicants.com/package.json",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.topmbaapplicants.com/Procfile",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.worklifeedge.com/app_server/models/db.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.worklifeedge.com/app.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.worklifeedge.com/package.json",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.worklifeedge.com/public/js/functions.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.worklifeedge.com/less/style-basics.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.worklifeedge.com/less/style-content.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.worklifeedge.com/less/style-nav-global.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.worklifeedge.com/app_server/views/footer.ejs",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.worklifeedge.com/app_server/views/home.ejs",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.worklifeedge.com/app_server/controllers/main-ctrl.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.worklifeedge.com/app_server/routes/main-router.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.worklifeedge.com/Procfile",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.worklifeedge.com/less/style.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.worklifeedge.com/app_server/views/header.ejs",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.worklifeedge.com/less/style-footer.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.worklifeedge.com/less/style-header.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.protr.actor/app.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.protr.actor/app_server/controllers/main-ctrl.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.protr.actor/app_server/models/db.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.protr.actor/public/js/functions.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.protr.actor/less/style.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.protr.actor/package.json",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.protr.actor/less/style-content.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.protr.actor/Procfile",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.protr.actor/less/style-basics.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.protr.actor/less/style-fonts.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.protr.actor/less/style-footer.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.protr.actor/app_server/views/index.ejs",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.protr.actor/app_server/routes/index.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/routes/experimentation-router.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/controllers/experimentation-ctrl.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/views/experiments-list.ejs",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/views/footer.ejs",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/views/design.ejs",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/less/style-fonts.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/less/variables.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/less/style-nav-global.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/less/style-basics.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/less/buttons.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/less/style-footer.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/views/blog-recentposts.ejs",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/less/style-content.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/less/style-header.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/routes/router.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/controllers/agile-maturity-ctrl.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/controllers/trending-ctrl.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/less/style-global-nav.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/controllers/trending-controller.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/views/trending-recentposts.ejs",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/controllers/main-controller.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/views/trending-singlepost.ejs",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/controllers/trendingtopics-controller.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/controllers/underarmour-controller.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/controllers/foursquare-controller.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/views/underarmour-workouts.ejs",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/views/foursquare-checkins.ejs",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/views/index.ejs",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/views/quandl-stock-quotes.ejs",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/controllers/quandl-controller.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/package.json",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/controllers/main.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/less/style.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/less/style-content-container.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/less/style-page-container.less",
+		"/Users/michael/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/public/js/app.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/controllers/users.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/models/db.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/routes/index.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app_server/routes/users.js",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/Procfile",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/less/grid.less",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/requirements.txt",
+		"/Cloud/Bitbucket/michael@michaelmallari.com/www.michaelmallari.com/app.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"grid-4-3-2",
+			"font",
+			"1d252d",
+			"margin",
+			"btn",
+			"button",
+			"font",
+			"%26",
+			"%3D",
+			"darke",
+			"darker",
+			"maxtrix",
+			"radius",
+			"btn",
+			"container"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"grid-img",
+			"131e29",
+			"&",
+			"=",
+			"matrix"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true
+}
